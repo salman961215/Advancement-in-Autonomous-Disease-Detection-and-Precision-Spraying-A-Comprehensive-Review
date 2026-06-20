@@ -1,0 +1,10 @@
+bibkey,reference,crop,coupling_type,T_lat,S_align,A_sem,F_close,SATI
+darbyshire2023towards,Darbyshire et al.,Row crops (weeds),Vision -> boom nozzles,0.8,0.6,0.6,0.0,0.54
+vijayakumar2025ai,Vijayakumar et al. 2025,Vegetables,Vision -> smart sprayer,0.8,0.6,0.6,0.0,0.54
+cakmak2026design,Cakmak et al.,Apple orchard,Vision -> oscillating arm,0.8,0.6,0.4,0.0,0.49
+nackley2021variable,Nackley et al.,Apple/vineyard,Vision -> VR nozzles,0.6,0.4,0.6,0.0,0.43
+liu2022precision,Liu et al. 2022,Orchard,3D LiDAR -> nav + VR,0.6,0.6,0.4,0.0,0.43
+jiang2023navigation,Jiang et al.,Orchard,2D LiDAR -> nav only,0.6,0.2,0.4,0.0,0.33
+vijayakumar2026design,Vijayakumar et al. 2026,Row crops,Pressure-loop only,0.4,0.4,0.0,0.4,0.30
+grella2022field,Grella et al.,Vineyard,Open-loop PWM,0.4,0.4,0.0,0.0,0.22
+zhou2024spraying,Zhou et al.,Crop canopies,Open-loop electrostatic,0.4,0.4,0.0,0.0,0.22

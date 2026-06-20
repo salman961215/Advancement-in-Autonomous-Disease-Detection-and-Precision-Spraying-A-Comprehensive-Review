@@ -1,0 +1,28 @@
+dataset,bibkey,images_samples,disease_classes,crops,availability,data_type,link
+PlantVillage,hughes2015open,"55,305",38 classes (26 diseases + 12 healthy),14 crops,Online,RGB,https://github.com/spMohanty/PlantVillage-Dataset
+PlantDoc,singh2020plantdoc,"2,598",27 classes (17 disease + 10 healthy),13 species,Online,RGB (internet-sourced),https://github.com/pratikkayal/PlantDoc-Dataset
+PlantCLEF 2022,goeau2022plantclef,~2.89M,"80,000+ species classes",Diverse taxa,Online,RGB,https://www.imageclef.org/PlantCLEF2022
+AI Challenger 2018,aichallenger2018,"~40,772",61 disease classes,Multiple crops,Online,RGB,https://github.com/xungeer29/AI-Challenger-Plant-Disease-Recognition
+Plant Pathology 2021,thapa2021plant,"~23,000",6 classes,Apple,Online,RGB,https://www.kaggle.com/c/plant-pathology-2021-fgvc8
+iBean,makerere2020beans,"~1,295",3 classes,Bean,Online,RGB,https://github.com/AI-Lab-Makerere/ibean
+Cassava Disease Dataset,mwebaze2019icassava,"~21,397",5 classes,Cassava,Online,RGB,https://www.kaggle.com/c/cassava-leaf-disease-classification
+Rice Leaf Disease Dataset,sethy2020deep,"~5,932",4 classes,Rice,Online,RGB,https://doi.org/10.17632/fwcj7stb8r.1
+Wheat Rust Dataset,cgiar2020wheatrust,"1,486",3 classes,Wheat,Online,RGB,https://zindi.africa/competitions/iclr-workshop-challenge-1-cgiar-computer-vision-for-crop-disease
+ASDID (Auburn Soybean),bevers2022asdid,"9,981",8 classes,Soybean,Online,RGB,https://doi.org/10.5061/dryad.41ns1rnj3
+FieldPlant,moupojou2023fieldplant,"5,170",27 disease classes,3 crops,Online,RGB,https://universe.roboflow.com/plant-disease-detection/fieldplant
+PlantWild,wei2024plantwild,"18,542",89 categories (56 diseased + 33 healthy),Diverse wild species,Online,RGB (in-the-wild),https://huggingface.co/datasets/uqtwei2/PlantWild
+Custom Pear Leaf (Alshammari),alshammari2024pear,"3,505",4 classes,Pear,Online,RGB,
+PlantVillage (Grape subset),hughes2015open,"9,027",4 classes,Grape,Online,RGB,
+Tea Leaf Disease (Soeb),soeb2023tea,"4,000",5 diseases,Tea,Self,RGB,https://doi.org/10.1038/s41598-023-33270-4
+Greenhouse Vegetable (Wang),wang2024vegetable,Multiple sets,20 vegetable disease types,"Tomato, cucumber, eggplant",Self,RGB,https://doi.org/10.1038/s41598-024-54540-9
+TomatoDet Greenhouse,wang2024tomatodet,"~10,000+",Tomato diseases (5 classes),Tomato,Self,RGB,https://doi.org/10.1186/s13007-024-01188-1
+KSPP / NAS-RDA,kspp2023list,Knowledge base,2462 pathogen taxa,1420 host plants,Self,Text + images,https://genebank.rda.go.kr/kplantdisease.do
+PDD (Pepper Disease Dataset),liu2024pdd,Multiple sets,Multiple pepper diseases & pests,Pepper,Self,RGB + text (multimodal),https://data.mendeley.com/datasets/8mvpntr47w/1
+Custom Multispectral (De Silva),desilva2023multispectral,Multiple sets,Various diseases,10 ag species,Self,Multispectral (6 bands),https://drive.google.com/drive/folders/1RkqlyjP7M2tfjWbCRWOHSSktcClGCNqD
+LeafNet,nguyenquoc2026leafnet,"186,000+",97 disease classes,22 crop species,Online,RGB + text (image-caption),https://huggingface.co/datasets/enalis/LeafNet
+LeafBench,nguyenquoc2026leafnet,"13,950 QA pairs",97 disease classes (6 VQA tasks),22 crop species,Online,VQA benchmark,https://github.com/EnalisUs/LeafBench
+CDDM,liu2024cddm,"137,000 images + ~1M QA",60 disease classes,16 crop types,Released (ECCV 2024),RGB + VQA (multimodal),https://github.com/UnicomAI/UnicomBenchmark/tree/main/CDDMBench
+Agri-3M-VL,yang2025agrigptvl,3M+ samples,Multiple diseases (broad ag),Broad ag,Preprint,RGB + text (VLM corpus),https://arxiv.org/html/2510.04002v2
+ALive,nawaz2025agriclip,"~600,000 image-text pairs",27 classes / 13 species (PlantDoc eval),Crops + livestock + fishery,Released,RGB + text (contrastive),https://huggingface.co/datasets/agyaatcoder/PlantDoc
+AgroInstruct,awais2025agrogpt,"~70,000 expert-tuning samples",Multiple diseases + weeds + insects,202 classes (4 ag domains),Self (released),RGB + instruction data,https://github.com/awaisrauf/agrogpt
+PlantVillageVQA,sakib2025plantvillagevqa,"193,609 QA pairs / 55,448 images",38 diseases across 14 crops,14 crops,Online,VQA benchmark,https://huggingface.co/datasets/SyedNazmusSakib/PlantVillageVQA
