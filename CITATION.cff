@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated review paper."
+title: "Advancement in Autonomous Disease Detection and Precision Spraying: A Comprehensive Review"
+authors:
+  - family-names: Salman
+    given-names: Muhammad
+  - family-names: Ud Din
+    given-names: Muhayy
+  - family-names: Hussain
+    given-names: Irfan
+year: 2026
+license: MIT
