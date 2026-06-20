@@ -1,0 +1,2 @@
+# Advancement-in-Autonomous-Disease-Detection-and-Precision-Spraying-A-Comprehensive-Review
+Plant diseases reduce crop yields worldwide. This review of 130 studies (2020–2026) presents a Sense–Decide–Spray framework linking AI detection, decision-making, and precision spraying. It shows current systems lack treatment verification and calls for action-aware datasets, joint optimisation, foundation models, and post-spray validation.
